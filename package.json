@@ -1,6 +1,6 @@
 {
   "name": "logname",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Get the login name of the current user",
   "repository": "git://github.com/ahutchings/logname.git",
   "author": "Andrew Hutchings <andrew.hutchings@gmail.com>"
