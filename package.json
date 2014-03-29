@@ -1,0 +1,7 @@
+{
+  "name": "username",
+  "version": "0.0.0",
+  "description": "Get the login name of the current user",
+  "repository": "git://github.com/ahutchings/username.git",
+  "author": "Andrew Hutchings <andrew.hutchings@gmail.com>"
+}
