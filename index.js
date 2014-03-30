@@ -1,6 +1,6 @@
 var variables = ['LOGNAME', 'USER', 'LNAME', 'USERNAME'];
 
-function getUser (callback) {
+function getUser () {
   var i = 0, n = variables.length, username;
 
   while (!username && i < n) {
